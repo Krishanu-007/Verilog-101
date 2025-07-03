@@ -1,0 +1,2 @@
+This folder consist of the solutions of all the questions that are present at HDLbits.
+These codes are my solved codes and are successfully verified and simulated using ModelSim and Quartus Prime.
